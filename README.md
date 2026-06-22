@@ -12,16 +12,11 @@ https://kasiakwiatek.github.io/visual-form1/
 
 ✨ Features
 Controlled React form components
-
 Basic input validation
-
 Custom focus styles
-
 International phone number pattern
-
 Clean and minimal UI
-
 No data storage or processing
 
-License
+📄 License
 This project is provided for learning and portfolio purposes only.
