@@ -19,21 +19,18 @@ This form is intended solely for demonstration purposes.
 Your data is not stored or processed.
 
 🔗 Live Preview
-<p>
-The newsletter can be viewed here - 
-<a href="https://kasiakwiatek.github.io/visual-form1/">
-<img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-6a5acd?style=for-the-badge" />
-</a>
-</p>
+The newsletter can be viewed here - [![Live Demo](https://img.shields.io/badge/Live%20Demo-visual--form1-6a5acd?style=for-the-badge)](https://kasiakwiatek.github.io/visual-form1/)
 
 
 ✨ Features
-🎛️ Controlled React form components
-✔️ Basic input validation
-🎨 Custom focus styles
-🌍 International phone number pattern
-🧼 Clean and minimal UI
-🔒 No data storage or processing
+<ol>
+<li>🎛️ Controlled React form components</li>
+<li>✔️ Basic input validation</li>
+<li>🎨 Custom focus styles</li>
+<li>🌍 International phone number pattern</li>
+<li>🧼 Clean and minimal UI</li>
+<li>🔒 No data storage or processing</li>
+</ol>
 
 📄 License
 This project is provided for learning and portfolio purposes only.
