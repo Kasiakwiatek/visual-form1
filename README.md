@@ -24,7 +24,7 @@ The newsletter can be viewed here - [![Live Demo](https://img.shields.io/badge/L
 
 ✨ Features
 <ol>
-<li>🎛️ Controlled React form components</li>
+<li>🎛️ React form components</li>
 <li>✔️ Basic input validation</li>
 <li>🎨 Custom focus styles</li>
 <li>🌍 International phone number pattern</li>
