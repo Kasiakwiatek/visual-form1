@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/languages/top/Kasiakwiatek/visual-form1?style=flat-square" />
 </p>
 
-📌 About this project
+📌 About this project<br/>
 This project is a simple visual preview of a web form created as a practice exercise while learning JavaScript fundamentals and React.
 It is based on concepts from the Udemy course “JavaScript – The Basics for Beginners” and implemented in React to practice component structure, state management and basic form validation.
 
